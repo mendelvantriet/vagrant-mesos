@@ -1,0 +1,3 @@
+.vagrant/
+conf/hosts
+conf/zoo.cfg
